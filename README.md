@@ -1,0 +1,4 @@
+LogJoiner
+=========
+
+** TODO: Add description **
